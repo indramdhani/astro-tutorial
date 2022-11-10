@@ -1,0 +1,4 @@
+npm create astro@latest
+npm run dev
+npm install --save-dev prettier prettier-plugin-astro
+npm install --save-dev eslint eslint-plugin-astro
